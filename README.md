@@ -26,7 +26,7 @@
 - We will use "Winter 2020" for our password spray with this command:
 <pre>Invoke-LocalPasswordSpray -Password Winter2020</pre>
 <img width="767" alt="Screenshot 2025-03-29 at 11 02 01 PM" src="https://github.com/user-attachments/assets/9093544e-c62b-437b-a343-ba9361b9245c" /> <br>
-- There are 6 successful authentication attempts (they don’t have to be Frank’s, just any login attempts)
+- There are 6 successful authentication attempts (it doesnt have to be Frank's account, there just needs to be an attempt)
 - We can exit with ```exit``` and cleanup with ```user-remove.bat ```
 - Finally, let's check for alerts in Event Viewer by going to Action > Refresh.
 <img width="919" alt="Screenshot 2025-03-29 at 11 05 48 PM" src="https://github.com/user-attachments/assets/788ca2c1-d2e5-491b-9c7e-397c695d1084" />
