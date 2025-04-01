@@ -1,4 +1,4 @@
-# Honey-User
+# Honey User
 (Antisyphon training lab from Cyber Deception/Active Defense)
 ## Creating Accounts
 - In cmd, navigate to  ```\IntroLabs``` using ```cd```, then run the batch file ```200-user-gen.bat```
