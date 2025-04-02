@@ -1,5 +1,6 @@
 # Honey User
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#3857">Medium</a>
 ## Creating Accounts
 - In cmd, navigate to  ```\IntroLabs``` using ```cd```, then run the batch file ```200-user-gen.bat```
 - This generates a list of example accounts, including the honey user "Frank."<br><br>
