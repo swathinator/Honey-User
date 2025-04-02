@@ -30,4 +30,5 @@ Full lab explanation available on my <a href="https://medium.com/@swathitadepall
 - There are 6 successful authentication attempts (it doesnt have to be Frank's account, there just needs to be an attempt)
 - We can exit with ```exit``` and cleanup with ```user-remove.bat ```
 - Finally, let's check for alerts in Event Viewer by going to Action > Refresh.
-<img width="919" alt="Screenshot 2025-03-29 at 11 05 48 PM" src="https://github.com/user-attachments/assets/788ca2c1-d2e5-491b-9c7e-397c695d1084" />
+<img width="919" alt="Screenshot 2025-03-29 at 11 05 48 PM" src="https://github.com/user-attachments/assets/788ca2c1-d2e5-491b-9c7e-397c695d1084" /><br><br>
+<a href="https://github.com/swathinator/Homelabs">Back to Homelabs</a>
